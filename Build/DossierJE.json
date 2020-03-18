@@ -1,0 +1,13 @@
+{
+"companyName": "GL",
+"productName": "EvasionTome2",
+"dataUrl": "DossierJE.data.unityweb",
+"wasmCodeUrl": "DossierJE.wasm.code.unityweb",
+"wasmFrameworkUrl": "DossierJE.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
